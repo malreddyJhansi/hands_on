@@ -1,0 +1,5 @@
+pandas
+fpdf
+matplotlib
+reportlab
+pyspark
